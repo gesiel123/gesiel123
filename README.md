@@ -7,10 +7,10 @@
 - 📫 How to reach email:leisegleite@gmail.com
   
  <div>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   <a href="https://github.com/gesiel123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gesiel123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gesiel123&layout=compact&langs_count=16&theme=dracula"/>
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 ## Tecnologias que eu uso no meu dia dia💻 
